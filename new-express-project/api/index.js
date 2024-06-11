@@ -1,7 +1,7 @@
 // new-express-project/api/index.js
 import express from "express";
 
-import router from "./router";
+import router from "./router.js";
 
 const app = express();
 
